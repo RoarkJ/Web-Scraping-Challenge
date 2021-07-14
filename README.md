@@ -15,8 +15,8 @@ Project Goal: Build a web application that scrapes various websites for data rel
 * Visit the USGS Astrogeology site [here](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars) to obtain high resolution images for each of Mar’s hemispheres.
 ## Step 2 - MongoDB and Flask Application
 Use MongoDB with Flask templating to create a new HTML page that displays all of the information that was scraped from the URLs above.
-![final_app_part1.png](Images/final_app_part1.png)
-![final_app_part2.png](Images/final_app_part2.png)
+![final_app_part1.png](screen_shots/final_app_part1.png)
+![final_app_part2.png](screen_shots/final_app_part2.png)
 ### Copyright
 Trilogy Education Services © 2020. All Rights Reserved.
 NASA’s Mars Exploration ProgramNASA’s Mars Exploration Program

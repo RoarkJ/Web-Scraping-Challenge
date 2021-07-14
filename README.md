@@ -17,12 +17,6 @@ Project Goal: Build a web application that scrapes various websites for data rel
 Use MongoDB with Flask templating to create a new HTML page that displays all of the information that was scraped from the URLs above.
 ![final_app_part1.png](screen_shots/mars_project_1.png)
 ![final_app_part2.png](screen_shots/mars_project_2.png)
-### Copyright
-Trilogy Education Services © 2020. All Rights Reserved.
-NASA’s Mars Exploration ProgramNASA’s Mars Exploration Program
-News  – NASA’s Mars Exploration Program
-NASA’s real-time portal for Mars exploration, featuring the latest news, images, and discoveries from the Red Planet. (132 kB)
-https://mars.nasa.gov/news/
 
 Space FactsSpace Facts
 Mars Facts - Interesting Facts about Planet Mars
